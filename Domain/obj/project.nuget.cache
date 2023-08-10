@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JN1wS8xtsCMf/qOwNGTjFLraVmWnGMLlrJLgX7Jo4zG3qm359FNQjRol/AlopYHWJIQXh89QogIA7xjxfW2LRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sal\\RiderProjects\\Ava_Faf_Client\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sal\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Sal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Sal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
